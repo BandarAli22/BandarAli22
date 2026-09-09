@@ -12,7 +12,7 @@
 
 I build software with a focus on **clear architecture, reliable behavior, and the details that usually fail at the edges**.
 
-My current work is mostly private while it is being developed. Public releases will be shared selectively when they are ready.
+Most current work is private. Public releases are shared selectively.
 
 ### Engineering focus
 
