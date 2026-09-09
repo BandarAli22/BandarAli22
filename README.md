@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BandarAli22/BandarAli22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# X0B
 
-Here are some ideas to get you started:
+### Building systems. Chasing edge cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`backend systems` · `automation` · `reliability` · `applied AI`
+
+</div>
+
+---
+
+I build software with a focus on **clear architecture, reliable behavior, and the details that usually fail at the edges**.
+
+My current work is mostly private while it is being developed. Public releases will be shared selectively when they are ready.
+
+### Engineering focus
+
+- Backend systems and API design
+- Workflow automation and durable processing
+- PostgreSQL, data integrity, and concurrency
+- Arabic-first product engineering
+- Applied AI where it improves the system — not where it adds noise
+
+### Working with
+
+`TypeScript` · `Node.js` · `PostgreSQL` · `Python` · `Flutter` · `Docker`
+
+### Principles
+
+```text
+correctness > cleverness
+simple      > premature abstraction
+evidence    > assumptions
+ship        > endlessly polish
+```
+
+<div align="center">
+
+<sub>Build it. Break it. Understand why. Build it better.</sub>
+
+</div>
